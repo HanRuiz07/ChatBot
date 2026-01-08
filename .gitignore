@@ -1,0 +1,24 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.*
+
+# Build
+dist/
+build/
+
+# Logs
+*.log
+
+# WhatsApp / Baileys sessions
+sessions/
+auth_info/
+store.json
+
+# OS files
+.DS_Store
+Thumbs.db
